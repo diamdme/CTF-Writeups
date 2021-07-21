@@ -1,6 +1,7 @@
 # Misc / GeoGuessr1
 
-
+## Category
+Misc / OSINT / GeOSINT
 
 ## Challenge Author(s):
 `CodeTiger`
